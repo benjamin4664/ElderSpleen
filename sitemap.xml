@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://benjamin4664.github.io/ElderSpleen/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://benjamin4664.github.io/ElderSpleen/</loc>
+</url>
+<url>
+<loc>https://benjamin4664.github.io/ElderSpleen/epicure-tribute.html</loc>
+<lastmod>2026-08-19T21:09:40+02:00</lastmod>
+</url>
+<url>
+<loc>https://benjamin4664.github.io/ElderSpleen/project.html</loc>
+<lastmod>2026-08-19T21:10:24+02:00</lastmod>
+<image:image>
+<image:loc>https://benjamin4664.github.io/ElderSpleen/media/posts/2/Logo-ElderSplenn.pptx-2.jpg</image:loc>
+<image:title><![CDATA[logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://benjamin4664.github.io/ElderSpleen/media/posts/2/Epicure-tribute.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

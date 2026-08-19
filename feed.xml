@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ElderSpleen</title>
+    <link href="https://benjamin4664.github.io/ElderSpleen/feed.xml" rel="self" />
+    <link href="https://benjamin4664.github.io/ElderSpleen" />
+    <updated>2026-08-19T21:09:40+02:00</updated>
+    <author>
+        <name>ElderSpleen</name>
+    </author>
+    <id>https://benjamin4664.github.io/ElderSpleen</id>
+
+    <entry>
+        <title>Epicure Tribute</title>
+        <author>
+            <name>ElderSpleen</name>
+        </author>
+        <link href="https://benjamin4664.github.io/ElderSpleen/epicure-tribute.html"/>
+        <id>https://benjamin4664.github.io/ElderSpleen/epicure-tribute.html</id>
+
+        <updated>2026-08-19T21:09:40+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Blah
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Blah</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://benjamin4664.github.io/ElderSpleen/sitemap.xml

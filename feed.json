@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ElderSpleen",
+    "description": "",
+    "home_page_url": "https://benjamin4664.github.io/ElderSpleen",
+    "feed_url": "https://benjamin4664.github.io/ElderSpleen/feed.json",
+    "user_comment": "",
+    "icon": "https://benjamin4664.github.io/ElderSpleen/media/website/Logo-ElderSplenn-2.jpg",
+    "author": {
+        "name": "ElderSpleen"
+    },
+    "items": [
+        {
+            "id": "https://benjamin4664.github.io/ElderSpleen/epicure-tribute.html",
+            "url": "https://benjamin4664.github.io/ElderSpleen/epicure-tribute.html",
+            "title": "Epicure Tribute",
+            "summary": "Blah",
+            "content_html": "<p>Blah</p>",
+            "author": {
+                "name": "ElderSpleen"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-19T21:09:40+02:00",
+            "date_modified": "2026-08-19T21:09:40+02:00"
+        }
+    ]
+}
