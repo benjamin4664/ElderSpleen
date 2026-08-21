@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ElderSpleen",
     "description": "",
-    "home_page_url": "https://benjamin4664.github.io/ElderSpleen",
-    "feed_url": "https://benjamin4664.github.io/ElderSpleen/feed.json",
+    "home_page_url": "https://elderspleen.com",
+    "feed_url": "https://elderspleen.com/feed.json",
     "user_comment": "",
-    "icon": "https://benjamin4664.github.io/ElderSpleen/media/website/Logo-ElderSplenn-2.jpg",
+    "icon": "https://elderspleen.com/media/website/Logo-ElderSplenn-2.jpg",
     "author": {
         "name": "ElderSpleen"
     },

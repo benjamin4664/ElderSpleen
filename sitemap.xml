@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://benjamin4664.github.io/ElderSpleen/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://elderspleen.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://benjamin4664.github.io/ElderSpleen/</loc>
+<loc>https://elderspleen.com/</loc>
 </url>
 <url>
-<loc>https://benjamin4664.github.io/ElderSpleen/elders-spleen-un-support-pour-enseigner-lucrece-et-epicure/</loc>
+<loc>https://elderspleen.com/elders-spleen-un-support-pour-enseigner-lucrece-et-epicure/</loc>
 <lastmod>2026-08-21T18:24:35+02:00</lastmod>
 </url>
 <url>
-<loc>https://benjamin4664.github.io/ElderSpleen/epicure-tribute-2/</loc>
+<loc>https://elderspleen.com/epicure-tribute-2/</loc>
 <lastmod>2026-08-21T18:15:59+02:00</lastmod>
 <image:image>
-<image:loc>https://benjamin4664.github.io/ElderSpleen/media/posts/4/Epicure-tribute.jpg</image:loc>
+<image:loc>https://elderspleen.com/media/posts/4/Epicure-tribute.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://benjamin4664.github.io/ElderSpleen/introduction/</loc>
+<loc>https://elderspleen.com/introduction/</loc>
 <lastmod>2026-08-21T12:16:20+02:00</lastmod>
 </url>
 <url>
-<loc>https://benjamin4664.github.io/ElderSpleen/lucrece-tribute/</loc>
+<loc>https://elderspleen.com/lucrece-tribute/</loc>
 <lastmod>2026-08-21T17:33:55+02:00</lastmod>
 </url>
 </urlset>
