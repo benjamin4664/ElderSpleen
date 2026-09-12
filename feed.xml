@@ -3,7 +3,7 @@
     <title>ElderSpleen</title>
     <link href="https://elderspleen.com/feed.xml" rel="self" />
     <link href="https://elderspleen.com" />
-    <updated>2026-09-12T02:05:55+02:00</updated>
+    <updated>2026-09-12T02:08:27+02:00</updated>
     <author>
         <name>ElderSpleen</name>
     </author>
@@ -21,7 +21,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://elderspleen.com/media/posts/14/Aponia-and-Ataraxia3.gif" alt="" width="3000" height="3000"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://elderspleen.com/media/posts/14/Aponia-and-Ataraxia3.gif" alt="" width="300" height="300"></figure>
             ]]>
         </content>
     </entry>
