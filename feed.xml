@@ -3,12 +3,34 @@
     <title>ElderSpleen</title>
     <link href="https://elderspleen.com/feed.xml" rel="self" />
     <link href="https://elderspleen.com" />
-    <updated>2026-09-15T13:55:42+02:00</updated>
+    <updated>2026-09-19T21:04:23+02:00</updated>
     <author>
         <name>ElderSpleen</name>
     </author>
     <id>https://elderspleen.com</id>
 
+    <entry>
+        <title>Aponia &amp; Ataraxia — Nouveau single </title>
+        <author>
+            <name>ElderSpleen</name>
+        </author>
+        <link href="https://elderspleen.com/release/"/>
+        <id>https://elderspleen.com/release/</id>
+
+        <updated>2026-09-19T21:03:11+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Ce nouveau titre puise directement dans la pensée épicurienne : l'aponie, absence de douleur du corps, et l'ataraxie, sérénité de l'âme — les deux piliers du bonheur selon Épicure. Une méditation sonore sur l'apaisement, entre calme intérieur et lucidité philosophique. 🎧 Disponible dès aujourd'hui sur&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p dir="ltr">Ce nouveau titre puise directement dans la pensée épicurienne : l'aponie, absence de douleur du corps, et l'ataraxie, sérénité de l'âme — les deux piliers du bonheur selon Épicure. Une méditation sonore sur l'apaisement, entre calme intérieur et lucidité philosophique.</p>
+<p dir="ltr">🎧 Disponible dès aujourd'hui sur toutes les plateformes :</p>
+<div class="post__iframe"><iframe loading="lazy" width="1000" height="200" style="width: 699px; height: 342px;" src="https://odesli.co/embed/?url=https%3A%2F%2Fsong.link%2Fdrk4drjxw5rmm&amp;theme=light" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title> Prochainement / Soon</title>
         <author>
