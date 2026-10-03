@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://elderspleen.com/prochainement-soon/",
+            "url": "https://elderspleen.com/prochainement-soon/",
+            "title": "Prochainement / Soon",
+            "summary": "Triomphe Livre Premier §1.68 \"un Grec, un simple mortel, osa lever les yeux, osa lui résister en face. Rien ne l'arrête, loin d'ébranler son courage, les obstacles l'irritent, et il n'en est que plus ardent à rompre les barrières étroites de la nature. ll s'élance&hellip;",
+            "content_html": "<h1><em>Triomphe</em></h1>\n<p><em>Livre Premier §1.68</em></p>\n<p><em>\"un Grec, </em></p>\n<p><em>un simple mortel, </em></p>\n<p><em>osa lever les yeux, </em></p>\n<p><em>osa lui résister en face.</em></p>\n<p> </p>\n<p><em>Rien ne l'arrête, </em></p>\n<p><em>loin d'ébranler son courage, </em></p>\n<p><em>les obstacles l'irritent, </em></p>\n<p><em>et il n'en est que plus ardent à rompre </em></p>\n<p><em>les barrières étroites de la nature.</em></p>\n<p> </p>\n<p><em>ll s'élance </em></p>\n<p><em>loin des bornes enflammées du monde, </em></p>\n<p><em>il parcourt l'infini sur les ailes de la pensée, </em></p>\n<p><em>il triomphe...</em></p>\n<p> </p>\n<p><em>Il revient nous apprendre </em></p>\n<p><em>ce qui peut ou ne pas naître, </em></p>\n<p><em>d'où vient que la puissance des corps est bornée, </em></p>\n<p><em>qu'il y a pour tous un terme infranchissable...</em></p>\n<p><em>refrain:</em></p>\n<p><em>un Grec, un simple mortel, osa lever les yeux.</em></p>\n<p><em>\"</em></p>\n<p>Source:  Extrait de <a href=\"https://fr.wikisource.org/wiki/Auteur:Charles_Nisard\" title=\"Auteur:Charles Nisard\">Charles Nisard</a>.<i><a href=\"https://fr.wikisource.org/wiki/De_la_nature_des_choses_(%C3%A9dition_Nisard)\" title=\"De la nature des choses (édition Nisard)\"> De la nature des choses</a></i>, <a href=\"https://fr.wikisource.org/wiki/Cat%C3%A9gorie:%C3%89diteur_-_Firmin-Didot_Fr%C3%A8res\" title=\"Catégorie:Éditeur - Firmin-Didot Frères\">Firmin-Didot Frères</a>, <time datetime=\"1868\">1868</time></p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "ElderSpleen"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-03T21:31:12+02:00",
+            "date_modified": "2026-10-03T21:41:56+02:00"
+        },
+        {
             "id": "https://elderspleen.com/lucretius/",
             "url": "https://elderspleen.com/lucretius/",
             "title": "Lucretius",
@@ -64,7 +78,7 @@
             "tags": [
             ],
             "date_published": "2026-09-12T02:05:55+02:00",
-            "date_modified": "2026-09-15T13:55:42+02:00"
+            "date_modified": "2026-10-03T21:29:45+02:00"
         }
     ]
 }
