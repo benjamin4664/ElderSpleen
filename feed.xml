@@ -3,12 +3,54 @@
     <title>ElderSpleen</title>
     <link href="https://elderspleen.com/feed.xml" rel="self" />
     <link href="https://elderspleen.com" />
-    <updated>2026-10-11T21:03:44+02:00</updated>
+    <updated>2026-10-29T21:07:25+01:00</updated>
     <author>
         <name>ElderSpleen</name>
     </author>
     <id>https://elderspleen.com</id>
 
+    <entry>
+        <title>Almas Vénus - Clip Officiel</title>
+        <author>
+            <name>ElderSpleen</name>
+        </author>
+        <link href="https://elderspleen.com/almas-venus-clip-officiel/"/>
+        <id>https://elderspleen.com/almas-venus-clip-officiel/</id>
+
+        <updated>2026-10-29T21:07:25+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Le nouveau titre et le clip officiel, le 30 octobre 2026. Une invocation vieille de vingt siècles, mise en musique. Regarder le clip : https://youtu.be/78UtKkmW0u4
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p dir="ltr">Le nouveau titre et le clip officiel, le 30 octobre 2026. Une invocation vieille de vingt siècles, mise en musique.</p>
+<p dir="ltr">Regarder le clip : <a href="https://youtu.be/78UtKkmW0u4">https://youtu.be/78UtKkmW0u4</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Almas Vénus official video </title>
+        <author>
+            <name>ElderSpleen</name>
+        </author>
+        <link href="https://elderspleen.com/almas-venus-official-video/"/>
+        <id>https://elderspleen.com/almas-venus-official-video/</id>
+
+        <updated>2026-10-29T21:06:52+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The new track and official video, out October 30, 2026. A twenty-century-old invocation, set to music. Watch the video: https://youtu.be/78UtKkmW0u4
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p dir="ltr">The new track and official video, out October 30, 2026. A twenty-century-old invocation, set to music.</p>
+<p dir="ltr">Watch the video: <a href="https://youtu.be/78UtKkmW0u4">https://youtu.be/78UtKkmW0u4</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Triomphe - De rerum natura · Book I</title>
         <author>
